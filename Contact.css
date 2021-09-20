@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding:0px;
+    }
+    body{
+    background-image: url("https://cdn.wallpapersafari.com/32/48/ZC4msW.jpg");
+    background-size: 100%;
+    }
+    .container{
+    width: 1200px;
+    margin: auto;
+    }
+    
+    .nav-main{
+    margin-top: 100px;
+    
+    }
+    .nav-main li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    }
+    .nav-main li a:hover{
+    border: 2px solid #fff;
+    background-color:rgb(60, 207, 207);
+    border-radius: 100%;
+    }
+    .nav-main li a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    color: white;
+    }
