@@ -4,7 +4,9 @@
     }
     body{
     background-image: url("https://cdn.wallpapersafari.com/32/48/ZC4msW.jpg");
-    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* Här har jag valt då att bakgrundsbilden inte ska repeteras */
     }
     .container{
     width: 1200px;
@@ -31,4 +33,10 @@
     padding: 10px 10px;
     text-transform: uppercase;
     color: white;
+    }
+
+    .Picture{
+    /* Jag fick in 3 bilder på galleri */
+    /* Ändrade px på padding-left för att få bilderna på mitten */
+    padding-left: 500px;    
     }

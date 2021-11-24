@@ -15,6 +15,14 @@
     margin-top: 100px;
     
     }
+    p{
+        color: white;
+        padding: 20px;
+    }
+    #error{
+       color: white; 
+       padding: 20px;
+    }
     .nav-main li{
     list-style: none;
     display: inline-block;

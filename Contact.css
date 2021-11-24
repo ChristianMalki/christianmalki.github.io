@@ -11,6 +11,19 @@
     margin: auto;
     }
     
+    .länkar {
+        width: 500px;
+        margin: auto;
+        margin-top: 50px;
+        /* Har lag till länkar på Contact */
+    }
+
+    .länkar img {
+        width: 50px;
+        padding: 10px;
+        /* Har minskat ikonerna */
+    }
+
     .nav-main{
     margin-top: 100px;
     

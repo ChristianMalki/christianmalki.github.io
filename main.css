@@ -4,6 +4,7 @@
     }
     body{
     background-image: url("https://cdn.wallpapersafari.com/32/48/ZC4msW.jpg");
+    /* Där jag ändrade storleken på bakgrundsbilden på hemsidan */
     background-size: 100%;
     }
     .container{
@@ -24,6 +25,7 @@
     .nav-main li a:hover{
     border: 2px solid #fff;
     background-color:rgb(60, 207, 207);
+    /* Jag ändrade formen på border-radius för att få menyn knapparna mer runda*/
     border-radius: 100%;
     }
     .nav-main li a{
